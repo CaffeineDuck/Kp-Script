@@ -1,0 +1,7 @@
+baje_ko_barsa = 100
+
+yedi baje_ko_barsa < 100 {
+    bhannuhos 'ma budo bhako xiana'
+} natra {
+    bhannuhos 'ma ta budo hunai sakdiana'
+}
