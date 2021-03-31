@@ -1,7 +1,7 @@
 from .kp_lexer import KpLexer
 from .kp_parser import KpParser
 
-VERSION = "1.8.3"
+VERSION = "0.1"
 
 names = {}
 
